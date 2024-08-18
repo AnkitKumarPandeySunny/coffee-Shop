@@ -38,7 +38,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/coffeeorder-website.git
+[
+https://coffeeorder-website.netlify.app/home
+]
 Navigate to the project directory:
 
 bash
